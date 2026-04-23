@@ -1,0 +1,9 @@
+2.README.md
+
+     Introduction
+
+This repository demonstrates the implementation of **Linear Regression**, a fundamental supervised machine learning algorithm used for predicting continuous values. The goal of this project is to explore the relationship between input features and the target variable by building a predictive model.
+
+The project covers the complete workflow, including data preprocessing, model training, and performance evaluation. By applying Linear Regression, we analyze patterns in the dataset and generate predictions based on learned relationships.
+
+This repository is intended for beginners and learners who want to understand the core concepts of machine learning and gain hands-on experience with building and evaluating a regression model.
